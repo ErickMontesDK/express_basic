@@ -1,0 +1,22 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Ejercicio de la semana 3 BackEnd JS-6. Mi primer server con Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickMontesDK/express_basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickMontesDK/express_basic/issues"
+  },
+  "homepage": "https://github.com/ErickMontesDK/express_basic#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
